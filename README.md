@@ -127,7 +127,7 @@ g++ main.cpp -o hospital
 </ol>
 
 <pre>
-./hospital
+./main
 </pre>
 
 <hr>
@@ -142,27 +142,6 @@ Contact
 Password
 </pre>
 
-
-<h2>⚠️ Limitations</h2>
-<ul>
-  <li>Console-based (no GUI)</li>
-  <li>No database (uses text files)</li>
-  <li>Basic validation only</li>
-  <li>Password stored in plain text</li>
-</ul>
-
-<hr>
-
-<h2>💡 Future Improvements</h2>
-<ul>
-  <li>Add GUI (Qt / SFML)</li>
-  <li>Use database (MySQL / SQLite)</li>
-  <li>Improve security (hashed passwords)</li>
-  <li>Better error handling</li>
-  <li>Search & filtering system</li>
-</ul>
-
-<hr>
 
 <h2>👨‍💻 Author</h2>
 <p>Muhammad Haroon</p>

@@ -1,0 +1,24 @@
+Muhammad ali
+35
+male
+034586905
+2450
+Sun, Tue, Wed, Sat 
+Ahmed Raza
+32
+male
+0309433305
+2050
+Sun, , Wed, fri    
+Fatima Zahra
+35
+female
+039322115
+2090
+Tue, Thu, Sat
+Noor Shah
+35
+female
+034678234
+2950
+fri, Thu, Wed, Sat 

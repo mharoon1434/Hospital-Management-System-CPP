@@ -1,0 +1,24 @@
+Dr.Haroon
+35
+male
+03109336478
+Orthopedic Surgen
+Mon, Fri, Sun
+Dr.Wahaas Ali
+39
+male
+0310875463
+Oncologist
+Wed, Thu, Sat
+Dr.Mahnoor Javed
+35
+female
+0315789606
+Neurologist
+Tue, Fri, Sat
+Dr.Maria Siddiqui
+35
+female
+03098765439
+Surgen
+Sun, Tue, Wed, Sat
